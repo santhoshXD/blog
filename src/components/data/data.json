@@ -1,0 +1,29 @@
+{
+    "Menu": [
+      {
+        "id": 1,
+        "items": "home",
+        "subItems": ["sub Item 1", "sub Item 2", "sub Item 3"]
+      },
+      {
+        "id": 2,
+        "items": "blogs",
+        "subItems": ["sub Item 1", "sub Item 2", "sub Item 3"]
+      },
+      {
+        "id": 3,
+        "items": "posts",
+        "subItems": ["sub Item 1", "sub Item 2", "sub Item 3"]
+      },
+      {
+        "id": 4,
+        "items": "pages",
+        "subItems": ["sub Item 1", "sub Item 2", "sub Item 3"]
+      },
+      {
+        "id": 5,
+        "items": "contact us"
+      }
+    ]
+  }
+  
